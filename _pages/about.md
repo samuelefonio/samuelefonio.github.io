@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: University of Turin. Corso Svizzera 185, Turin, Italy. 
+subtitle: University of Turin, Corso Svizzera 185, Turin, Italy. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>University of Turin</p>
-    <p>Department of Computer Science</p>
+    <p>Dept. of Computer Science</p>
     <p>Alpha Research Group</p>
 
 news: true # includes a list of news items
