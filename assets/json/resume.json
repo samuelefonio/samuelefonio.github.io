@@ -14,13 +14,18 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "INRAE, Montpellier France",
+      "position": "Research internship",
+      "startDate": "2022-01-06",
+      "endDate": "2022-01-09",
+      "summary": "Research internship at the UMR Tetis Laboratory."
+    },
+    {
+      "name": "Cambridge University, UK",
+      "position": "Visiting student",
+      "startDate": "2024-01-04",
+      "endDate": "2024-01-07",
+      "summary": "Visiting period at the Department of Computer Science department."
     }
   ],
   "education": [
