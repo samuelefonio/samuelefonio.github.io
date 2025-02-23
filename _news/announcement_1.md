@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "Hyperbolic prototypical Entailment Cones" by myself, Roberto Esposito and Marco Aldinucci was accepted at AISTATS 2025!
