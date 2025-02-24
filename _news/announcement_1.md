@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Hyperbolic prototypical Entailment Cones" by myself, Roberto Esposito and Marco Aldinucci was accepted at AISTATS 2025!
+Our paper "Hyperbolic prototypical Entailment Cones for image classification" by myself, Roberto Esposito and Marco Aldinucci was accepted at AISTATS 2025!
