@@ -403,8 +403,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-paper-hyperbolic-prototypical-entailment-cones-for-image-classification-by-myself-roberto-esposito-and-marco-aldinucci-was-accepted-at-aistats-2025",
-          title: 'Our paper “Hyperbolic prototypical Entailment Cones for image classification” by myself, Roberto Esposito...',
+    },{id: "news-our-paper-hyperbolic-prototypical-entailment-cones-for-image-classification-authored-by-myself-roberto-esposito-and-marco-aldinucci-was-accepted-at-aistats-2025",
+          title: 'Our paper “Hyperbolic prototypical Entailment Cones for image classification” authored by myself, Roberto...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
