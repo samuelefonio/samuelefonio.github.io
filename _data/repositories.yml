@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - samuelefonio/HPEC
   - samuelefonio/Projects
   - makgyver/fluke
   - alpha-unito/parallel-interior-point-solver
