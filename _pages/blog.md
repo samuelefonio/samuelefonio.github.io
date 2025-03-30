@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 pagination:
   enabled: true
-  collection: posts
+  collection: new_posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
@@ -16,7 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<div class="post">
+<!-- <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -193,4 +193,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->

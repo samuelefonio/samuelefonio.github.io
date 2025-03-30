@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have just completed the Learning Over Time Spring School! Check out the posts for more details.
+I have just completed the Learning Over Time Spring School! Check out the blog for more details.
