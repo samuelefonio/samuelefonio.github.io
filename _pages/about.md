@@ -27,9 +27,9 @@ However, I am very curious about many aspects of Machine Learning (ML), and eage
 
 My background is in mathematics, I have a bachelor in pure [Mathematics](https://www.matematica.unito.it/do/home.pl) and a Master Degree in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl). 
 
-At the University of Turin, I am more focused on Machine Learning research, but I am part of the awesome Parallel computing research group [Alpha](https://alpha.di.unito.it)!
+At the University of Turin, I am more focused on Machine Learning research, but I am part of the Parallel computing research group [Alpha](https://alpha.di.unito.it)! My supervisors are Roberto Esposito and Marco Aldinucci.
 
-On my website you can find my publications, my interests, my CV, and many other things. Of course, it is still in development, and I still need to get used to `al-folio`, but so far it seems very nice :smiley:. Have fun on my website!
+On my website you can find my publications, my interests, my CV, and many other things. Of course, it is still in development, and I still need to get used to `al-folio`. Have fun on my website!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
