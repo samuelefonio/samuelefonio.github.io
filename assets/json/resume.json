@@ -78,14 +78,29 @@
       "fluency": "Beginner"
     }
   ],
+  
+  "Open Source Projects":[
+    {
+      "name": "fluke",
+      "startDate": "2017-10-01",
+      "endDate": "2020-07-20",
+      "description": "A federated learning framework for academics."
+    }
+  ],
+
   "interests": [
     {
-      "name": "Machine Learning",
+      "name": "Non-Euclidean geometries in Deep Learning",
       "keywords": [
-        "Machine Learning",
-        "Computer Vision",
+        "Hyperbolic Representation Learning",
+        "Metric Learning",
+        "Prototype Learning"]
+    },
+    {
+      "name": "Federated Learning",
+      "keywords": [
         "Representation Learning",
-        "Federated Learning"
+        "Federated Prototype Learning"
       ]
     }
   ]
