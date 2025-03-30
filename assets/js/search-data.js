@@ -416,7 +416,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-tutorial-on-federated-learning-experimenting-with-federated-learning-implementing-state-of-the-art-methods-with-fluke-was-accepted-at-ecai25",
           title: 'Our Tutorial on Federated Learning, “Experimenting with Federated Learning: Implementing State-of-the-Art Methods with...',
           description: "",
-          section: "News",},{id: "news-i-have-just-completed-the-learning-over-time-spring-school-check-out-the-posts-for-more-details",
+          section: "News",},{id: "news-i-have-just-completed-the-learning-over-time-spring-school-check-out-the-blog-for-more-details",
           title: 'I have just completed the Learning Over Time Spring School! Check out the...',
           description: "",
           section: "News",},{id: "projects-project-1",
