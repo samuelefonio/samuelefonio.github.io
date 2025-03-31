@@ -16,8 +16,9 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<!-- <div class="post">
+<div class="post">
 
+<!-- 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
@@ -106,9 +107,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.new_posts %}
+      {% assign postlist = paginator.posts %}
     {% else %}
-      {% assign postlist = site.new_posts %}
+      {% assign postlist = site.posts %}
     {% endif %}
 
     {% for post in postlist %}
