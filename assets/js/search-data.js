@@ -58,25 +58,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-learning-over-time",
-      
-        title: "Learning over Time",
-      
-      description: "Overview on the Learning over Time Spring school",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/lot/";
-        
-      },
-    },{id: "news-our-paper-hyperbolic-prototypical-entailment-cones-for-image-classification-authored-by-myself-roberto-esposito-and-marco-aldinucci-was-accepted-at-aistats-2025",
+            },{id: "news-our-paper-hyperbolic-prototypical-entailment-cones-for-image-classification-authored-by-myself-roberto-esposito-and-marco-aldinucci-was-accepted-at-aistats-2025",
           title: 'Our paper “Hyperbolic prototypical Entailment Cones for image classification” authored by myself, Roberto...',
           description: "",
           section: "News",},{id: "news-our-tutorial-on-federated-learning-experimenting-with-federated-learning-implementing-state-of-the-art-methods-with-fluke-was-accepted-at-ecai25",
           title: 'Our Tutorial on Federated Learning, “Experimenting with Federated Learning: Implementing State-of-the-Art Methods with...',
           description: "",
-          section: "News",},{id: "news-i-have-just-completed-the-learning-over-time-spring-school-check-out-the-blog-for-more-details",
-          title: 'I have just completed the Learning Over Time Spring School! Check out the...',
+          section: "News",},{id: "news-i-have-just-completed-the-learning-over-time-spring-school",
+          title: 'I have just completed the Learning Over Time Spring School!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
