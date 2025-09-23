@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Non-Euclidean Geometries for Prototype-Based Image Classification: a Reality Check" co-authored with Silvia Grosso and Sara Bouchenak has been accepted at the th Italian Conference on Big Data and Data Science (ITADATA) 2025! 
+Our paper "Non-Euclidean Geometries for Prototype-Based Image Classification: a Reality Check" co-authored with Silvia Grosso and Sara Bouchenak has been accepted at the 4th Italian Conference on Big Data and Data Science (ITADATA) 2025! 
