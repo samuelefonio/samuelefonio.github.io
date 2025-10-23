@@ -4,6 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - CasellaJr/Fed2RC
+  - samuelefonio/proto_bench
+  - samuelefonio/Personalized-Aggregation-For-Federated-Prototypical-Learning
   - samuelefonio/HPEC
   - samuelefonio/Projects
   - makgyver/fluke
