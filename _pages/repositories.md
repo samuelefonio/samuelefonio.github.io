@@ -10,61 +10,56 @@ nav_order: 4
 ## Selected repositories
 
 ### Fed2RC
-Federated learning framework for robust and reliable classification.  
-**Collaboration:** CasellaJr  
-[GitHub →](https://github.com/CasellaJr/Fed2RC)
+Federated Learning with Rocket Features for Time Series Classification.
+[Fed2RC](https://github.com/CasellaJr/Fed2RC)
 
 ---
 
 ### proto_bench
-Benchmarking framework for federated and distributed learning methods.  
-**Role:** main contributor  
-[GitHub →](https://github.com/samuelefonio/proto_bench)
+Benchmarking different geometries in Prototype Learning for Image Classification.  
+[Benchma](https://github.com/samuelefonio/proto_bench)
 
 ---
 
 ### Personalized Aggregation for Federated Prototypical Learning
-Research-oriented implementation of personalized aggregation strategies in federated prototypical learning.  
-[GitHub →](https://github.com/samuelefonio/Personalized-Aggregation-For-Federated-Prototypical-Learning)
+Personalized aggregation strategies in federated prototypical learning.  
+[GitHub](https://github.com/samuelefonio/Personalized-Aggregation-For-Federated-Prototypical-Learning)
 
 ---
 
 ### HPEC
-Code and experiments related to High Performance Embedded Computing (HPEC).  
-[GitHub →](https://github.com/samuelefonio/HPEC)
+Hyperbolic Prototypical Entailment Cones.
+[GitHub](https://github.com/samuelefonio/HPEC)
 
 ---
 
 ### Projects
 Collection of academic and personal projects developed over time.  
-[GitHub →](https://github.com/samuelefonio/Projects)
+[GitHub](https://github.com/samuelefonio/Projects)
 
 ---
 
 ### fluke
-Federated Learning Utility Kit for experimentation and prototyping.  
-**Collaboration:** makgyver  
-[GitHub →](https://github.com/makgyver/fluke)
+Federated Learning Utility frameworK for Experimentationg.  
+[GitHub](https://github.com/makgyver/fluke)
 
 ---
 
 ### Parallel Interior Point Solver
 High-performance parallel interior-point solver for large-scale optimization problems.  
-**Organization:** alpha-unito  
-[GitHub →](https://github.com/alpha-unito/parallel-interior-point-solver)
+[GitHub](https://github.com/alpha-unito/parallel-interior-point-solver)
 
 ---
 
 ### FederatedSurv
-Federated survival analysis methods and experiments.  
-**Collaboration:** oussamaHarrak  
-[GitHub →](https://github.com/oussamaHarrak/FederatedSurv)
+Federated survival analysis with Adaboost.F.  
+[GitHub](https://github.com/oussamaHarrak/FederatedSurv)
 
 ---
 
 ## More
 For a complete and up-to-date list of repositories, visit my  
-[GitHub profile →](https://github.com/samuelefonio)
+[GitHub profile](https://github.com/samuelefonio)
 
 <!-- {% if site.data.repositories.github_users %}
 
