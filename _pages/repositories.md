@@ -11,13 +11,13 @@ nav_order: 4
 
 ### Fed2RC
 Federated Learning with Rocket Features for Time Series Classification.
-[Fed2RC](https://github.com/CasellaJr/Fed2RC)
+[GitHub](https://github.com/CasellaJr/Fed2RC)
 
 ---
 
 ### proto_bench
 Benchmarking different geometries in Prototype Learning for Image Classification.  
-[Benchma](https://github.com/samuelefonio/proto_bench)
+[GitHub](https://github.com/samuelefonio/proto_bench)
 
 ---
 
