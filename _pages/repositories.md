@@ -15,7 +15,7 @@ Federated Learning with Rocket Features for Time Series Classification.
 
 ---
 
-### proto_bench
+### Hyperbolic Benchmark
 Benchmarking different geometries in Prototype Learning for Image Classification.  
 [GitHub](https://github.com/samuelefonio/proto_bench)
 
@@ -27,7 +27,7 @@ Personalized aggregation strategies in federated prototypical learning.
 
 ---
 
-### HPEC
+### Hyperbolic Prototypical Entailment Cones
 Hyperbolic Prototypical Entailment Cones.
 [GitHub](https://github.com/samuelefonio/HPEC)
 
@@ -51,7 +51,7 @@ High-performance parallel interior-point solver for large-scale optimization pro
 
 ---
 
-### FederatedSurv
+### Federated Survival Analysis
 Federated survival analysis with Adaboost.F.  
 [GitHub](https://github.com/oussamaHarrak/FederatedSurv)
 
