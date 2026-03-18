@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Here are my github statistics and my selected repos. Among them there are some projects I have worked on during the master degree (quite outdated I would say, there is still some R code). You can find some projects I had the pleasure of working on. Some of them are personal repositories, others are from my collaborators. Many others to come soon!",
+          description: "Here are my selected github repositories. They can be divided in academic and personal ones. For each personal one, you can find a related project description in the Project page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -98,11 +98,6 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -145,7 +140,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%61%6D%75%65%6C%65.%66%6F%6E%69%6F@%75%6E%69%74%6F.%69%74", "_blank");
+          window.open("mailto:%73%61%6D%75%65%6C%65%66%6F%6E%69%6F%39%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
