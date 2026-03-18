@@ -18,16 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Samuele Fonio, a PhD student in [Modeling and data science](https://dottorato-mds.campusnet.unito.it/do/home.pl) at the University of Turin. I should defend my thesis in May 2026. My main research field is Deep Learning, in particular Representation Learning, Hyperbolic Representation Learning and Federated Learning. Recently, I am getting also close to Mechanistic Interpretability. 
-
-I am genunely curious about many aspects of Machine Learning, and eager to explore many aspects of it. In fact, in my free time I like delving in many ML/AI projects. Recently, I got much interested in playing with LLM: I like adding them in my applications and the challenge of running them wiht local only deployments (and still make them work!).
-
-Apart from this I am also a normal person, I like movies, reading and doing sports :smile:. 
-
-My background is in mathematics, I have a bachelor in pure [Mathematics](https://www.matematica.unito.it/do/home.pl) and a Master Degree in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl). 
+Hi! I am Samuele Fonio, a PhD student in [Modeling and data science](https://dottorato-mds.campusnet.unito.it/do/home.pl) at the University of Turin. My background is in mathematics, I have a bachelor in pure [Mathematics](https://www.matematica.unito.it/do/home.pl) and a Master Degree in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl). 
 
 At the University of Turin, I am more focused on Machine Learning research, but I am part of the Parallel computing research group [Alpha](https://alpha.di.unito.it)! My supervisors are Roberto Esposito and Marco Aldinucci.
 
+
+My main research field is Deep Learning. In particular, Representation Learning and Federated Learning. Recently, I am getting also close to Mechanistic Interpretability. 
+
+I am genunely curious about many aspects of Machine Learning, and eager to explore it as much as I can. In fact, in my free time I like delving in many ML/AI projects. Recently, I got much interested in playing with LLM: I like adding them in my applications and the challenge of running them only locally (and still make them work!).
+
+Apart from this I am also a normal person, I like movies, reading and doing sports :smile:. 
+
+I hope you will enjoy my website!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
