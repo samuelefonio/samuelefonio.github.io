@@ -53,13 +53,13 @@ We implemented an interior point solver (Karmarkar's Interior Point method) and 
 
 # Personal projects repositories
 
-<!-- ## Taiwanese Credit Risk
+## Taiwanese Credit Risk
 In this project we implemented a credit risk model trying to predict wether a customer could return a loan or not. We benchmarked many ML algorithms and conducted carefull EDA.
 [GitHub](https://github.com/samuelefonio/Taiwan_credit_risk)
 
 ## Digital Wallet Transactions
 In this project I implemented a full end-to-end ML pipeline, including EDA, model development for fraud detection and an interface using fastAPI and Streamlit. 
-[GitHub](https://github.com/samuelefonio/Digital-Wallet-Transaction) -->
+[GitHub](https://github.com/samuelefonio/Digital-Wallet-Transaction)
 
 
 ---
