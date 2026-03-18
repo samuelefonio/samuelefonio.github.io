@@ -182,7 +182,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "google4cc4ff441730a43f.html"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -648,5 +648,3 @@ jsonresume:
   - interests
   - references
 
-
-include: ["google4cc4ff441730a43f.html"]
