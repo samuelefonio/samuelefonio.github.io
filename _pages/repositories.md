@@ -9,6 +9,8 @@ nav_order: 4
 
 # Academic projects repositories
 
+Here is a list of the Academic Projects I have been involved in. 
+
 ## Fed2RC
 In this work, we have developed a technique for federated time series classification based on Rocket features. Rocket is a method that exploits random mappings to accomplish time series classification tasks, and it is based on random kernel selection. We developed a FL system that shares only the generator of the random kernel and finds a closed-form solution for the general Ridge classifier, improving communication cost, computation cost and performances.
 [GitHub](https://github.com/CasellaJr/Fed2RC)
@@ -52,6 +54,8 @@ We implemented an interior point solver (Karmarkar's Interior Point method) and 
 
 
 # Personal projects repositories
+
+Here is a list of the Personal Projects I have done for personal purposes. 
 
 ## Taiwanese Credit Risk
 In this project we implemented a credit risk model trying to predict wether a customer could return a loan or not. We benchmarked many ML algorithms and conducted carefull EDA.
