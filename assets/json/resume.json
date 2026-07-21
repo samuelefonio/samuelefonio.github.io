@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Samuele Fonio",
-    "label": "PhD Student",
+    "label": "Data Scientist/AI Engineer",
     "image": "",
     "email": "samuelefonio98@gmail.com",
-    "summary": "I am a Phd Student at the University of Turin, Italy.",
+    "summary": "I am a Data Scientist/AI Engineer with a background in Computer Vision, Representation Learning and Federated Learning.",
     "location": {
       "address": "Corso svizzera 185",
       "city": "Turin",
@@ -17,7 +17,7 @@
       "name": "PhD in Modeling and Data Science",
       "position": "PhD Student",
       "startDate": "2023-02-01",
-      "endDate": "ongoing",
+      "endDate": "2026-05-04",
       "url": "https://dottorato-mds.campusnet.unito.it/do/home.pl",
       "summary": "PhD in Modeling and Data Science at University of Turin, Italy."
     },
