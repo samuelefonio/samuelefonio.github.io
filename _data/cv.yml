@@ -14,11 +14,10 @@
     - title: PhD
       institution: University of Turin, Turin, Italy
       year: 2022 - now
-      
+
     - title: Master degree
       institution: Stochstics and Data Science, University of Turin, Turin, Italy
       year: 2020 - 2022
-      
 
 - title: Experience
   type: time_table
@@ -28,7 +27,7 @@
       year: 2022
       description:
         - 3 months internship at the UMR Tetis Lab.
-        
+
     - title: Visiting Period
       institution: University of Cambridge, Cambridge, UK
       year: 2024
@@ -64,7 +63,6 @@
       items:
         - Federated Prototypical Learning for communication-efficient algorithms
         - Representation Learning in Federated Learning
-
 # - title: Other Interests
 #   type: list
 #   contents:

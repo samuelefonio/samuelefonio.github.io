@@ -44,7 +44,6 @@
       "endDate": "2022-09-01",
       "summary": "Research internship at the UMR Tetis Laboratory."
     }
-    
   ],
   "education": [
     {
@@ -62,7 +61,7 @@
       "studyType": "Bachelor Degree in Mathematics",
       "startDate": "2017-10-01",
       "endDate": "2020-07-20",
-      "url":"https://www.matematica.unito.it/do/home.pl",
+      "url": "https://www.matematica.unito.it/do/home.pl",
       "score": "103"
     }
   ],
@@ -80,8 +79,8 @@
       "fluency": "Beginner"
     }
   ],
-  
-  "projects":[
+
+  "projects": [
     {
       "name": "fluke",
       "startDate": "2024-01-01",
@@ -94,17 +93,11 @@
   "interests": [
     {
       "name": "Non-Euclidean geometries in Deep Learning",
-      "keywords": [
-        "Hyperbolic Representation Learning",
-        "Metric Learning",
-        "Prototype Learning"]
+      "keywords": ["Hyperbolic Representation Learning", "Metric Learning", "Prototype Learning"]
     },
     {
       "name": "Federated Learning",
-      "keywords": [
-        "Representation Learning",
-        "Federated Prototype Learning"
-      ]
+      "keywords": ["Representation Learning", "Federated Prototype Learning"]
     }
   ]
 }
