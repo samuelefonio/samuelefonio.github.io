@@ -14,19 +14,21 @@
   },
   "work": [
     {
+      "name": "Data Scientist@Aizoon",
+      "position": "Data Scientist",
+      "startDate": "2026-08-01",
+      "endDate": "ongoing",
+      "url": "https://www.aizoon.com/",
+      "summary": "Data Scientist at Aizoon technology and consulting"
+    },
+
+    {
       "name": "PhD in Modeling and Data Science",
       "position": "PhD Student",
       "startDate": "2023-02-01",
       "endDate": "2026-05-04",
       "url": "https://dottorato-mds.campusnet.unito.it/do/home.pl",
       "summary": "PhD in Modeling and Data Science at University of Turin, Italy."
-    },
-    {
-      "name": "Cambridge University, UK",
-      "position": "Visiting student",
-      "startDate": "2024-04-01",
-      "endDate": "2024-07-01",
-      "summary": "Visiting period at the Department of Computer Science department at the Unviersity of Cambridge."
     },
     {
       "name": "High school teacher of Mathematics and Physics",
